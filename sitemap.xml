@@ -35,6 +35,12 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://username.github.io/Lempire-curriculum/language-specific-lessons/1_intro/"/>
     </url>
     <url>
+        <loc>https://username.github.io/Lempire-curriculum/language-specific-lessons/2_beginner_resources/</loc>
+        <lastmod>2026-01-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://username.github.io/Lempire-curriculum/language-specific-lessons/2_beginner_resources/"/>
+    </url>
+    <url>
         <loc>https://username.github.io/Lempire-curriculum/de/</loc>
         <lastmod>2026-01-08</lastmod>
         <changefreq>daily</changefreq>
