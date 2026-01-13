@@ -12,4 +12,4 @@ This curriculum aims at building solid fundamentals before you even touch the co
 
 This course uses self shot photography, a storyline as well as simple language to make the learning experience more pleasant for y'all.
 
-Here is the link to the site: <a href="https://djblackberry64.github.io/Lempire-curriculum/">Link</a>
+Here is the link to the site: <a href="https://djblackberry64.github.io/djblackberry64-curriculum/">Link</a>
