@@ -2,42 +2,42 @@
 
 ## Definition
 
-Programming is the process of designing and building an executable computer program to accomplish a specific computing result or perform a specific task.
+Programmieren ist der Prozess bei welchem man ein ausführbares Computerprogramm entwickelt, um ein bestimmtes Rechenergebnis zu erzielen bzw. eine bestimmte Aufgabe zu erfüllen.
 
-Programming knowledge is the understanding of fundamental principles in software development.
+Programmierwissen ist das Verständnis von grundlegenen Prinzipien im Bereich der Softwareentwicklung.
 
-## What you can do with it
+## Was du damit alles machen kannst?
 
-If you just know how to program you won't get far. You will need to learn how to code in order to do that. For that you will have to pick a programming language (more on that later).
+Wenn du nur die Programmierung kennst, wirst du nicht weit kommen. Du wirst lernen müssen wie man dieses Wissen anwendet also Coding z.B.: ein Programm in einer Programmiersprache umsetzen(dazu später mehr).
 
-> But remember!
+> Aber bedenke!
 >
-> Programming knowledge will be necessary in order to write more complex programs as we progress in this curriculum.
+> Programmierwissen wird notwendig sein, um fortgeschrittene Programme zu schreiben je weiter wir in diesem Kurs voranschreiten.
 >
-> Each language executes these principles differently or emphasizes some of them more but the concepts stay the same!
+> Jede Programmiersprache setzt diese Prinzipien anders um oder legt mehr Wert auf manche, aber die Konzepte an sich bleiben gleich!
 
 ## Coding vs Programming
 
-**So you might ask: What is the difference between coding and programming?**
+**Du wirst dich jetzt vielleicht fragen: Was ist der Unterschied zwischen Codierung und Programmierung?**
 
-The difference is the level of specificity.
+Der Unterschied liegt im Grad der Spezifizität.
 
-You code in one (or more) programming language(s).
+Du codierst in einer (oder mehreren) Programmiersprache(n).
 
-If you're a good coder, you're good at that particular tech stack.
+Wenn du ein guter Coder bist, kannst du gut mit diesen spezifischen Tech-Stack.
 
-If you're a good programmer you understand the underlying principles and can transfer that knowledge across the syntax of a certain programming language.
+Wenn du ein guter Programmierer bist, verstehst du die grundlegenen Prinzipien und kannst dieses Wissen unabhängig von der Syntax einer bestimmten Programmiersprache mitnehmen.
 
-> Note:
+> Merke:
 >
-> Programming is the logic behind what you code.
+> Programmierung ist die Logik hinter was du codierst.
 >
-> Coding is the execution of these principles in a specific programming language.
+> Codierung ist die Anwendung dieser Prinzipien in einer bestimmten Programmiersprache.
 
-## Why you can be a good coder but a bad programmer at the same time
+## Warum du zugleich ein guter Codierer und ein schlechter Programmierer sein kannst
 
-You can be let's say good at writing Python code but terrible at understanding the concept of functions.
+Sagen wir mal du bist gut darin Python code zu schreiben, aber tust dir schwer das Konzept Funktionen zu verstehen.
 
-Even though you learned them in Python you still struggle to apply the concept (not it's implementation, the concept itself) in similiar contexts.
+Selbst wenn du die Implementierung davon in Python gelernt hast, fällt es dir noch immer schwer das Konzept in anderen Kontexten anzuwenden (nicht die Implementierung sondern das Konzept an sich).
 
-This leads to just relearning the implementation for each new language but never understanding the core concept behind it.
+Dies führt oft dazu, dass man die Implementierung für jede Sprache neu lernt, aber nie den Kern dahinter versteht.

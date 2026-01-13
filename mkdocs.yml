@@ -47,6 +47,9 @@ plugins:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - md_in_html
+  # - toc:
+  # permalink: true
 
 extra_javascript:
   - resources/javascripts/mathjax.js

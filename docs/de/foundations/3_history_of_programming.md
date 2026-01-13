@@ -1,33 +1,47 @@
 # Die Geschichte der Programmierung
 
-## Humble beginnings of programming
+Wir haben einen laaaangen Weg vor uns bevor wir dort landen wo wir jetzt gerade sind. Lass mich dich auf eine kleine Reise mitnehmen...
 
-## Low Level Predecessor Languages
+<figure>
+    <img src="../../../resources/img/biker_embarking_on_journey.jpeg"
+         alt="Österreich, Zufälliger Hügel" width="300">
+    <figcaption>Eine Radfahrerin auf dem Weg zu einer Reise in den Horizont</figcaption>
+</figure>
 
-### Can I have your compiler?
+## Die bescheidenen Anfänge der Programmierung
 
-> It was common for languages back then to write their compiler on an existing compiler platform/programming language.
+### Textilien und Lochkarten
+
+Die ersten Programme wurden nicht auf einem Bildschirm geschrieben. Hey, sie wurden nicht einmal wirklich geschrieben!
+
+Sie wurden in Lochkarten gestanzt und zeigten keine schöne grafische Oberfläche an. Sie wurden dafür genutzt um die Automatisierung von Maschinen im Websektor voranzutreiben.
+
+## Die Low Level Programmiersprachen als Vorfahren
+
+### Darf ich deinen Compiler haben?
+
+> Damals war es üblich für Programmiersprachen ihren Compiler auf einer bereits existenten Compiler Plattform/Programmiersprache zu schreiben.
 >
-> The first instance more known instance of this was the C programming language:
+> Der erste bekanntere Fall von so etwas ist die Programmiersprache C gewesen:
 
-To keep it short: C used Assembly to write it's compiler.
+Kurz: C hat Assembly genutzt um seinen Compiler zu schreiben.
 
-**Now you may ask: But how can it be that there's C code when I look up the source code of the C compiler?**
+**Jetzt fragst du dich vielleicht: Wie kann dann C Code im Code vom C Compiler stehen, wennn ich mir den Quellcode des Compilers ansehe?**
 
-Let's see what happened there:
+Schauen wir uns an was hier passiert ist:
 
-So the base of the C compiler is Assembly code which in turn is translated into binary code.
+Also der C Compiler basiert auf Assembly Code, welcher wiederum zu Binär Code übersetzt wird.
 
-_How can the compiler be written in C then? - It isn't really written in C._
+_Wie kann der Compiler dann in C geschrieben sein? - Einfach. Er ist es nicht._
 
-Under the hood it's all Assembly. They just used Assembly to code the necessary parts of the language compiler and could then use the C programming language itself to extend its functionality.
+Unter der Haube ist alles Assembly. Sie haben nur Assembly verwendet um die notwendigen Teile des Sprachen Compilers zu schreiben und konnten dann den Rest in C schreiben, um die Funktionalität zu erweitern.
 
-If you wanna have a specific history from a compiler borrowing progression:
+Wenn man sich einen konkreten Compiler Borrowing Verlauf ansieht:
 
 Binary > Assembly > C (1973, Dennis Ritchie) > C++ (1983, Bjarne Stroustrup) > Java (1995, Sun Microsystems) > Kotlin (2011, JetBrains)
 
-## The rise of popularity
+## Der Zuwachs an Beliebtheit
 
-## The crash
+## Der Absturz
 
-## Present
+## Heute

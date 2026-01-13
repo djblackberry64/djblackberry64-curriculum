@@ -25,4 +25,14 @@ Please be sure to check for updates as this curriculum is in active development.
 ## Support
 
 If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="https://ko-fi.com/djblackberry64">Link to site</a><br /> or just click the button down below to get redirected:<br />
-<a href="https://ko-fi.com/djblackberry64"><img src="../resources/img/Ko-Fi-new.jpg" width="400"></a>
+<a href="https://ko-fi.com/djblackberry64"><img src="./resources/img/Ko-Fi-new.jpg" width="400" style="border-radius: 40px"></a>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('djblackberry64', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
