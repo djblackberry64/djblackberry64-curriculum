@@ -74,8 +74,8 @@ After a boom a crash will follow...
 
 <figure>
     <img src="../../resources/img/clinical_chairs.jpeg"
-         alt="Austria, Random Hill" width="300">
-    <figcaption>A biker embarking on a journey into the horizon</figcaption>
+         alt="Two random backfacing chairs, hard contrast and many shadows, dark picture" width="300">
+    <figcaption>Two backfacing chairs, giving a psych ward like feeling</figcaption>
 </figure>
 
 The dot com crash was one of the most devastating setbacks for software development.

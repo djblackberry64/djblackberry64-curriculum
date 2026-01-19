@@ -1,5 +1,5 @@
-site_name: "Lempire Curriculum"
-site_url: "https://username.github.io/Lempire-curriculum/"
+site_name: "Djblackberry64 Curriculum"
+site_url: "https://username.github.io/djblackberry64-curriculum/"
 use_directory_urls: true
 
 theme:
@@ -52,5 +52,5 @@ markdown_extensions:
   # permalink: true
 
 extra_javascript:
-  - resources/javascripts/mathjax.js
+  - docs/resources/javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
