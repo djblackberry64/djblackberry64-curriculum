@@ -37,11 +37,11 @@ plugins:
           default: true
           name: English
           build: true
-          site_name: "Lempire curriculum"
+          site_name: "Djblackberry64 Curriculum"
         - locale: de
           name: Deutsch
           build: true
-          site_name: "Lempire Kurs"
+          site_name: "Djblackberry64 Kurs"
           default: false
 
 markdown_extensions:
