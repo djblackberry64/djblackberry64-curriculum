@@ -75,7 +75,7 @@ After a boom a crash will follow...
 <figure>
     <img src="../../resources/img/clinical_chairs.jpeg"
          alt="Two random backfacing chairs, hard contrast and many shadows, dark picture" width="300">
-    <figcaption>Two backfacing chairs, giving a psych ward like feeling</figcaption>
+    <figcaption>Two backfacing chairs, giving a feeling of abandonment</figcaption>
 </figure>
 
 The dot com crash was one of the most devastating setbacks for software development.
@@ -88,6 +88,33 @@ Unemployment spiked because of mass layoffs and the job market became highly com
 
 The market had not only lost roles but the now unemployed software developers were faced with an oversaturated market where a job in the field was nearly impossible to get.
 
+## The start to code movement
+
+After the market recovered, the 2010s "start to code movement" really made computer science popular again.<br />
+
+More resources and tutorials than ever before were made for starters and governments propagated computer science skills as "a basic skill in modern society".
+
+But as with every hype it has to cool down after a while. In the end of the 2010s as well as the early 2020s the hype had mostly faded again.
+
 ## The corona pandemic revival
 
+Then corona hit...<br />
+
+I won't talk too much about our _favourite_ virus here but one thing it did was bring some hype back into the field of computer science.
+
+There are some key factors why there was a revival in the time of the pandemic.<br />
+
+<ul>
+<li>One of them being that lots of people were at home at this time and consuming more digitial media/products.</li><br />
+<li>Second of all, people interacted with the digital world on a larger scale than ever before.</li>
+</ul>
+
 ## The current stagnation
+
+The current stagnation is a mix of multiple phenomenons falling together.
+
+<ul>
+<li>First, we have our overhiring in the pandemic which then resulted in mass layoffs.</li><br />
+<li>Second, we have the oversaturation of the job market in the field of computer science, this set the bar higher for new grads and really everyone looking for a job in this field.</li><br />
+<li>Lastly, layoffs get justified with embracing new automation technologies like AI as cover for mass layoffs after the pandemic overhiring.</li>
+</ul>
