@@ -20,6 +20,8 @@ They were punched into cards and they didn't display a shiny UI. They were used 
 
 ### Can I have your compiler?
 
+> If you don't know what a compiler is look at the next lesson.
+>
 > It was common for languages back then to write their compiler on an existing compiler platform/programming language.
 >
 > The first more known instance of this was the C programming language:
