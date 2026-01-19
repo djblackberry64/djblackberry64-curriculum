@@ -9,3 +9,11 @@ Examples for these resources include:
     <li><a href="https://roadmap.sh/">Roadmap.sh</a> - A great startpoint for beginners. If you're unsure what you have to learn for a career, this gives you answers.</li>
     <li><a href="https://www.w3schools.com/">w3schools.com</a> - A great reference and tutorial site for most programming languages</li>
 </ul>
+
+## Web resources
+
+<ul>
+  <li>
+  <a href="https://www.theodinproject.com/">The Odin Project - A great way to start and explore web programming as well as general things (operating systems, installations, etc.)</a>
+  </li>
+</ul>
