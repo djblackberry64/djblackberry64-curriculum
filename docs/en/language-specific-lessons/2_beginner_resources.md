@@ -14,6 +14,6 @@ Examples for these resources include:
 
 <ul>
   <li>
-  <a href="https://www.theodinproject.com/">The Odin Project - A great way to start and explore web programming as well as general things (operating systems, installations, etc.)</a>
+  <a href="https://www.theodinproject.com/">The Odin Project</a> - A great way to start and explore web programming as well as general things (operating systems, installations, etc.)
   </li>
 </ul>
