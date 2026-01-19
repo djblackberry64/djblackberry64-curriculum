@@ -102,7 +102,7 @@ Then corona hit...<br />
 
 I won't talk too much about our _favourite_ virus here but one thing it did was bring some hype back into the field of computer science.
 
-There are some key factors why there was a revival in the time of the pandemic.<br />
+There are some key factors why there was a revival in the time of the pandemic:<br />
 
 <ul>
 <li>One of them being that lots of people were at home at this time and consuming more digitial media/products.</li><br />
@@ -111,7 +111,7 @@ There are some key factors why there was a revival in the time of the pandemic.<
 
 ## The current stagnation
 
-The current stagnation is a mix of multiple phenomenons falling together.
+The current stagnation is a mix of multiple phenomenons falling together:
 
 <ul>
 <li>First, we have our overhiring in the pandemic which then resulted in mass layoffs.</li><br />
