@@ -58,12 +58,27 @@
       
     
     
+      <link rel="stylesheet" href="../../overrides/assets/stylesheets/lesson_nav.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
     
-    
+     
+<style>
+  /* Mobile responsive adjustments */
+  @media (max-width: 600px) {
+    .lesson-navigation {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .lesson-navigation a {
+      justify-content: center;
+    }
+  }
+</style>
+
   </head>
   
   
@@ -501,6 +516,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#this-leads-to-just-relearning-the-implementation-for-each-new-language-but-never-understanding-the-core-concept-behind-it" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        This leads to just relearning the implementation for each new language but never understanding the core concept behind it.
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -753,6 +779,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#this-leads-to-just-relearning-the-implementation-for-each-new-language-but-never-understanding-the-core-concept-behind-it" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        This leads to just relearning the implementation for each new language but never understanding the core concept behind it.
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -765,7 +802,7 @@
             <div class="md-content" data-md-component="content">
               
               <article class="md-content__inner md-typeset">
-                
+                 
                   
 
 
@@ -795,7 +832,7 @@
 <h2 id="why-you-can-be-a-good-coder-but-a-bad-programmer-at-the-same-time">Why you can be a good coder but a bad programmer at the same time</h2>
 <p>You can be let's say good at writing Python code but terrible at understanding the concept of functions.</p>
 <p>Even though you learned them in Python you still struggle to apply the concept (not it's implementation, the concept itself) in similiar contexts.</p>
-<p>This leads to just relearning the implementation for each new language but never understanding the core concept behind it.</p>
+<h2 id="this-leads-to-just-relearning-the-implementation-for-each-new-language-but-never-understanding-the-core-concept-behind-it">This leads to just relearning the implementation for each new language but never understanding the core concept behind it.</h2>
 
 
 
@@ -811,7 +848,46 @@
 
 
 
-                
+                  
+<div
+  class="lesson-navigation"
+  style="
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+  "
+>
+  
+  <a
+    href="../../1_intro.md"
+    class="md-button md-button--primary prev-btn"
+    style="display: flex; align-items: center; gap: 0.5rem"
+  >
+    <img
+      src="../../resources/icons/prev.svg"
+      alt="Previous"
+      style="height: 1em"
+    />
+    <span>Previous</span>
+  </a>
+   
+  <a
+    href="../../3_history_of_programming.md"
+    class="md-button md-button--primary next-btn"
+    style="display: flex; align-items: center; gap: 0.5rem"
+  >
+    <span>Next</span>
+    <img
+      src="../../resources/icons/next.svg"
+      alt="Next"
+      style="height: 1em"
+    />
+  </a>
+  
+</div>
+ 
               </article>
             </div>
           
