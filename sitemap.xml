@@ -12,7 +12,6 @@
         <lastmod>2026-01-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/rss/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/rss/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/foundations/1_intro/</loc>
@@ -59,13 +58,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
-    </url>
-    <url>
-        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/rss/</loc>
-        <lastmod>2026-01-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/rss/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/rss/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/1_intro/</loc>
