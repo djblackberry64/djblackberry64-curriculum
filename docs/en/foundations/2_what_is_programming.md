@@ -1,4 +1,11 @@
-# What is programming
+---
+title: What is programming?
+date: 2025-10-12
+prev: "foundations/1_intro/"
+next: "foundations/3_history_of_programming/"
+---
+
+# What is programming?
 
 ## Definition
 

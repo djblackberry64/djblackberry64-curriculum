@@ -1,4 +1,9 @@
-# Definitions in programming
+---
+title: Definitions in programming (concepts)
+date: 2025-12-11
+---
+
+# Definitions in programming (concepts)
 
 ## Terms about code execution
 

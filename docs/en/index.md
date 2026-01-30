@@ -1,3 +1,8 @@
+---
+title: Welcome to this curriculum
+date: 2025-08-26
+---
+
 # Welcome to this curriculum
 
 ## Commands

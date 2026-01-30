@@ -1,3 +1,8 @@
+---
+title: Introduction
+date: 2025-09-03
+---
+
 # Introduction
 
 ## Chapter 1: Welcoming

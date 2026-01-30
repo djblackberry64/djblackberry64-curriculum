@@ -1,9 +1,10 @@
 site_name: "Djblackberry64 Curriculum"
-site_url: "https://username.github.io/djblackberry64-curriculum/"
+site_url: "https://djblackberry64.github.io/djblackberry64-curriculum/"
 use_directory_urls: true
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -19,12 +20,24 @@ theme:
 extra:
   alternate:
     - name: English
-      link: ""
+      link: /djblackberry64-curriculum/
       lang: en
     - name: Deutsch
-      link: "de"
+      link: /djblackberry64-curriculum/de/
       lang: de
+  social:
+    - icon: fontawesome/solid/rss
+      link: /djblackberry64-curriculum/feed_rss_created.xml
+  generator: false
+
 plugins:
+  - rss:
+      match_path: "^en/.*\\.md$"
+      date_from_meta:
+        fields:
+          - updated
+          - date
+        default_time: "00:00"
   - search
   - awesome-pages
   - i18n:
@@ -48,9 +61,9 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - md_in_html
-  # - toc:
-  # permalink: true
-
+  # - toc
+extra_css:
+  - overrides/assets/stylesheets/lesson_nav.css
 extra_javascript:
-  - docs/resources/javascripts/mathjax.js
+  - resources/javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js

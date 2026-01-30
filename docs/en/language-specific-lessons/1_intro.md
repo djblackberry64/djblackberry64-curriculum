@@ -1,3 +1,8 @@
+---
+title: So you wanna pick a programming language now?
+date: 2025-09-03
+---
+
 # So you wanna pick a programming language now?
 
 ## Before we do this

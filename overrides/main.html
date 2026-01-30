@@ -1,0 +1,54 @@
+{% extends "base.html" %} {% block content %} {{ super() }} {# Prev/Next
+Navigation #} {% if page.meta.prev or page.meta.next %}
+<div
+  class="lesson-navigation"
+  style="
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+  "
+>
+  {% if page.meta.prev %}
+  <a
+    href="{{ page.meta.prev | url }}"
+    class="md-button md-button--primary prev-btn"
+    style="display: flex; align-items: center; gap: 0.5rem"
+  >
+    <img
+      src="{{ 'resources/icons/prev.svg' | url }}"
+      alt="Previous"
+      style="height: 1em"
+    />
+    <span>Previous</span>
+  </a>
+  {% endif %} {% if page.meta.next %}
+  <a
+    href="{{ page.meta.next | url }}"
+    class="md-button md-button--primary next-btn"
+    style="display: flex; align-items: center; gap: 0.5rem"
+  >
+    <span>Next</span>
+    <img
+      src="{{ 'resources/icons/next.svg' | url }}"
+      alt="Next"
+      style="height: 1em"
+    />
+  </a>
+  {% endif %}
+</div>
+{% endif %} {% endblock %} {% block extrahead %} {{ super() }}
+<style>
+  /* Mobile responsive adjustments */
+  @media (max-width: 600px) {
+    .lesson-navigation {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .lesson-navigation a {
+      justify-content: center;
+    }
+  }
+</style>
+{% endblock %}

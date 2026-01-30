@@ -1,3 +1,8 @@
+---
+title: Resources for after this curriculum
+date: 2025-12-16
+---
+
 # Resources for after this curriculum
 
 ## Beginner Resources for Everyone

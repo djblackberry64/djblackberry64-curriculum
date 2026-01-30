@@ -1,15 +1,30 @@
 # Welcome to my curriculum!
 
-I sincerly appreciate that you're here and want to build some solid fundamentals in software development. Don't worry there will be additonal resources at the end so that you can continue with that momentum!
+I sincerely appreciate that you're here and want to build some solid fundamentals in software development. Don't worry there will be additional resources at the end so that you can continue with that momentum!
 
 ## What you should know beforehand
 
-This is a curriculum that uses storytelling and metaphors as its main teaching methods and walks you through the topics one by one to ensure understanding builds up over time. If you're looking for a dry reference you're at the wrong place.
+This is a curriculum that uses:
+
+<ul>
+<li>storytelling and metaphors as its main teaching methods</li><br />
+<li>walks you through the topics one by one to ensure understanding builds up over time</li><br />
+<li>If you're looking for a dry reference you're at the wrong place.</li>
+</ul>
 
 ## Why or how is this useful for you?
 
-This curriculum aims at building solid fundamentals before you even touch the code. It explains core concepts and different programming languages as examples of how these fundamentals get executed in different programming languages e.g. Statically vs. Dynamically typed languages.
+This curriculum aims at building solid fundamentals before you even touch the code.<br />
+It explains core concepts and different programming languages as examples of how these fundamentals get executed in different programming languages e.g. Statically vs. Dynamically typed languages.
 
 This course uses self shot photography, a storyline as well as simple language to make the learning experience more pleasant for y'all.
 
-Here is the link to the site: <a href="https://djblackberry64.github.io/djblackberry64-curriculum/">Link</a>
+Here is the link to the site: <a href="https://djblackberry64.github.io/djblackberry64-curriculum/">Hosted curriculum online</a>
+
+## "I wanna use the assets in this curriculum for commercial purposes"
+
+Hey I don't mind you using the assets for your non-commercial projects.<br />
+
+However, if you wanna use them commercially visit [Ko-fi](https://ko-fi.com/djblackberry64) for a commercial license.<br />
+
+Take care and good luck with your projects!

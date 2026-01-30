@@ -1,3 +1,8 @@
+---
+title: History of programming
+date: 2025-11-06
+---
+
 # History of programming
 
 We had had a loooong way to go until we ended up where we are today. Let me take you on a little journey...
