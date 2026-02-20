@@ -3,6 +3,4 @@ title: RSS Feed
 date: 2026-01-28
 ---
 
-[Introduction](foundations/1_intro.md)
-
-[What is programming?](foundations/2_what_is_programming.md)
+You can find the RSS feed here: [RSS Feed](https://djblackberry64.github.io/djblackberry64-curriculum/feed_rss_created.xml)
