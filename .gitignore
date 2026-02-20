@@ -1,1 +1,4 @@
+# Ignore build site directory
 site/
+# Ignore individual resources
+docs/resources
