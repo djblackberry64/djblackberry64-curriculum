@@ -1,0 +1,18 @@
+.lesson-nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.lesson-nav a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+}
+
+.lesson-nav svg {
+  width: 1.2em;
+  height: 1.2em;
+  fill: currentColor; /* Farben vom Theme übernehmen */
+}
