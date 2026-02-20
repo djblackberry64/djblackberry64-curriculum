@@ -6,11 +6,11 @@ I sincerely appreciate that you're here and want to build some solid fundamental
 
 This is a curriculum that uses:
 
-<ul>
-<li>storytelling and metaphors as its main teaching methods</li><br />
-<li>walks you through the topics one by one to ensure understanding builds up over time</li><br />
-<li>If you're looking for a dry reference you're at the wrong place.</li>
-</ul>
+
+- storytelling and metaphors as its main teaching methods
+- walks you through the topics one by one to ensure understanding builds up over time
+
+If you're looking for a dry reference you're at the wrong place.
 
 ## Why or how is this useful for you?
 
