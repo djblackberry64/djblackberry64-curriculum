@@ -21,7 +21,34 @@ The first programs weren't written on a screen. Heck they weren't even written a
 
 They were punched into cards and they didn't display a shiny UI. They were used to automate machines involved in the weaving process.
 
+### We want to calculate!
+
+Not only our dear computer science people wanted computing to work. Mathmeticians and the S.T.E.M. field in general had a huge impact on the development of modern computing.
+
+They also left their marks on the field:
+
+Things like Lambda expressions (often seen with python functions, [stemming from the lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) or how programming languages handle mathmetical operations are still relevant to this day.
+
+### Two origins of modern computing
+
+In the end, there were two big movements: one from the computer engineering field, another from the Maths/S.T.E.M. field.
+They approached this differently though.
+
+When computer science thought about the specific implementation (for example making recursion as fast as loops), S.T.E.M. mostly focused on the theoretical approach of computing:
+
+If it could be done, it was (basically) solved. As seen with things like letting roots stay in results:
+
+A square with sides of 1, calculation of its diagonal
+
+$$
+{\sqrt {{1 ^ 2} + {1 ^ 2}}} = \sqrt 2
+$$
+
 ## Low Level Predecessor Languages
+
+### What are these languages?
+
+Low Level Predecessor Languages are languages associated with the beginnings of programming, often serving as a base for other languages to build upon.
 
 ### Can I have your compiler?
 
