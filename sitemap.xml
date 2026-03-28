@@ -7,6 +7,7 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://djblackberry64.github.io/djblackberry64-curriculum/es/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://djblackberry64.github.io/djblackberry64-curriculum/zh/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/rss/</loc>
@@ -58,6 +59,7 @@
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://djblackberry64.github.io/djblackberry64-curriculum/es/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://djblackberry64.github.io/djblackberry64-curriculum/zh/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/1_intro/</loc>
@@ -85,5 +87,15 @@
         <xhtml:link rel="alternate" hreflang="es" href="https://djblackberry64.github.io/djblackberry64-curriculum/es/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://djblackberry64.github.io/djblackberry64-curriculum/zh/"/>
+    </url>
+    <url>
+        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/zh/</loc>
+        <lastmod>2026-03-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://djblackberry64.github.io/djblackberry64-curriculum/zh/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://djblackberry64.github.io/djblackberry64-curriculum/es/"/>
     </url>
 </urlset>
