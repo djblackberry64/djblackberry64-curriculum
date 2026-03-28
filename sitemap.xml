@@ -27,12 +27,14 @@
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/foundations/2_what-is-programming/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/2_what-is-programming/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/foundations/3_history-of-programming/</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/foundations/3_history-of-programming/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/3_history-of-programming/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/foundations/4_definitions-in-programming-concepts/</loc>
@@ -69,16 +71,18 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/foundations/1_intro/"/>
     </url>
     <url>
-        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/2_what_is_programming/</loc>
+        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/2_what-is-programming/</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/2_what_is_programming/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/2_what-is-programming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/foundations/2_what-is-programming/"/>
     </url>
     <url>
-        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/3_history_of_programming/</loc>
+        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/3_history-of-programming/</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/3_history_of_programming/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/3_history-of-programming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/foundations/3_history-of-programming/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/es/</loc>
