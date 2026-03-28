@@ -51,7 +51,7 @@
       
     
     
-      <link rel="stylesheet" href="../../overrides/assets/stylesheets/lesson_nav.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/lesson_nav.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -62,15 +62,6 @@
      
 <style>
   /* Mobile responsive adjustments */
-  @media (max-width: 600px) {
-    .lesson-navigation {
-      flex-direction: column;
-      align-items: stretch;
-    }
-    .lesson-navigation a {
-      justify-content: center;
-    }
-  }
 </style>
 
   </head>
@@ -980,41 +971,22 @@ They approached this differently though.</p>
 
 
                   
-<div
-  class="lesson-navigation"
-  style="
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 2rem;
-    flex-wrap: wrap;
-  "
->
+<div class="lesson-navigation">
   
   <a
     href="../2_what-is-programming/"
     class="md-button md-button--primary prev-btn"
-    style="display: flex; align-items: center; gap: 0.5rem"
   >
-    <img
-      src="../../resources/icons/prev.svg"
-      alt="Previous"
-      style="height: 1em"
-    />
+    <img src="../../resources/icons/prev.svg" alt="Previous" />
     <span>Previous</span>
   </a>
    
   <a
     href="../4_definitions-in-programming-concepts/"
     class="md-button md-button--primary next-btn"
-    style="display: flex; align-items: center; gap: 0.5rem"
   >
     <span>Next</span>
-    <img
-      src="../../resources/icons/next.svg"
-      alt="Next"
-      style="height: 1em"
-    />
+    <img src="../../resources/icons/next.svg" alt="Next" />
   </a>
   
 </div>
