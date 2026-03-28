@@ -6,6 +6,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://djblackberry64.github.io/djblackberry64-curriculum/es/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/rss/</loc>
@@ -56,6 +57,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://djblackberry64.github.io/djblackberry64-curriculum/es/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/1_intro/</loc>
@@ -75,5 +77,13 @@
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/foundations/3_history_of_programming/"/>
+    </url>
+    <url>
+        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/es/</loc>
+        <lastmod>2026-03-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://djblackberry64.github.io/djblackberry64-curriculum/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/"/>
     </url>
 </urlset>
