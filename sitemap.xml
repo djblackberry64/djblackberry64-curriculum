@@ -39,12 +39,14 @@
         <lastmod>2026-04-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/01-foundations/4_definitions-in-programming-concepts/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/01-foundations/4_definitions-in-programming-concepts/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/01-foundations/5_how-do-i-program/</loc>
         <lastmod>2026-04-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/01-foundations/5_how-do-i-program/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/01-foundations/5_how-do-i-program/"/>
     </url>
     <url>
         <loc>https://djblackberry64.github.io/djblackberry64-curriculum/02-language-specific-lessons/1_intro/</loc>
@@ -91,5 +93,19 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/01-foundations/3_history-of-programming/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/01-foundations/3_history-of-programming/"/>
+    </url>
+    <url>
+        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/01-foundations/4_definitions-in-programming-concepts/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/01-foundations/4_definitions-in-programming-concepts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/01-foundations/4_definitions-in-programming-concepts/"/>
+    </url>
+    <url>
+        <loc>https://djblackberry64.github.io/djblackberry64-curriculum/de/01-foundations/5_how-do-i-program/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://djblackberry64.github.io/djblackberry64-curriculum/de/01-foundations/5_how-do-i-program/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://djblackberry64.github.io/djblackberry64-curriculum/01-foundations/5_how-do-i-program/"/>
     </url>
 </urlset>
