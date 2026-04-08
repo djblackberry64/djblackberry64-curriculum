@@ -772,7 +772,7 @@ Please be sure to check for updates as this curriculum is in active development.
 
 <h2 id="support">Support</h2>
 <p>If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="https://ko-fi.com/djblackberry64">Link to site</a><br /> or just click the button down below to get redirected:<br />
-<a href="https://ko-fi.com/djblackberry64"><img src="./resources/img/Ko-Fi-new.jpg" width="400" style="border-radius: 40px"></a></p>
+<a href="https://ko-fi.com/djblackberry64"><img src="./resources/img/Ko-Fi-new.jpg" width="400" style="border-radius: 40px" id="donate"></a></p>
 <h2 id="used-program">Used Program</h2>
 <p>For full documentation visit <a href="https://www.mkdocs.org">mkdocs.org</a> as this was the static site generator used in this project.</p>
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
@@ -797,6 +797,11 @@ Please be sure to check for updates as this curriculum is in active development.
     animation-duration: 1.5s;
     animation-iteration-count: infinite;
   }
+  #donate:hover{
+    animation-name: donateAnimation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
   @keyframes eyeAnimation{
     0% {width: 40%;}
     13% {width: 40.5%;}
@@ -807,6 +812,17 @@ Please be sure to check for updates as this curriculum is in active development.
     75% {width: 41.5%;}
     83% {width: 41%;}
     100% {width: 39.5%;}
+  }
+  @keyframes donateAnimation{
+    0% {width: 405px;}
+    13% {width: 403px;}
+    25% {width: 400px;}
+    38% {width: 403px;}
+    50% {width: 405px;}
+    63% {width: 403px;}
+    75% {width: 400px;}
+    83% {width: 403px;}
+    100% {width: 405px;}
   }
 </style>
 
