@@ -765,14 +765,14 @@ It’s designed to help you navigate the tough moments that often stop people be
 <h2 id="curriculum-overview">Curriculum Overview</h2>
 <p>You'll see the overall progression of the curriculum here.
 Please be sure to check for updates as this curriculum is in active development.</p>
-<figure>
-    <a href="./01-foundations/1_intro/"><img title="bre...athe!"src="resources/img/eye-img-2.jpeg" alt="eye with brown iris" id="eye" style="border-radius: 10%;"></a>
-    <figcaption>Click to start your journey</figcaption>
+<figure class="animate" style="">
+    <a href="./01-foundations/1_intro/"><img title="bre...athe!"src="resources/img/eye-img-2.jpeg" alt="eye with brown iris" id="eye" style="border-radius: 10%;" width="300"></a>
+    <figcaption id="text">Click to start your journey</figcaption>
 </figure>
 
 <h2 id="support">Support</h2>
 <p>If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="https://ko-fi.com/djblackberry64">Link to site</a><br /> or just click the button down below to get redirected:<br />
-<a href="https://ko-fi.com/djblackberry64"><img src="./resources/img/Ko-Fi-new.jpg" width="400" style="border-radius: 40px" id="donate"></a></p>
+<a href="https://ko-fi.com/djblackberry64"><img src="./resources/img/Ko-Fi-new.jpg" width="400" style="border-radius: 40px;" class="animate"></a></p>
 <h2 id="used-program">Used Program</h2>
 <p>For full documentation visit <a href="https://www.mkdocs.org">mkdocs.org</a> as this was the static site generator used in this project.</p>
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
@@ -785,45 +785,17 @@ Please be sure to check for updates as this curriculum is in active development.
   });
 </script>
 <style>
-  .img:hover{
-    cursor: pointer;
-  }
-  #eye{
-    width: 40%;
-    height: 100%;
-  }
-  #eye:hover{
-    animation-name: eyeAnimation;
-    animation-duration: 1.5s;
-    animation-iteration-count: infinite;
-  }
-  #donate:hover{
-    animation-name: donateAnimation;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-  }
-  @keyframes eyeAnimation{
-    0% {width: 40%;}
-    13% {width: 40.5%;}
-    25% {width: 41.5%;}
-    38% {width: 42%;}
-    50% {width: 43%;}
-    63% {width: 42.5%;}
-    75% {width: 41.5%;}
-    83% {width: 41%;}
-    100% {width: 39.5%;}
-  }
-  @keyframes donateAnimation{
-    0% {width: 405px;}
-    13% {width: 403px;}
-    25% {width: 400px;}
-    38% {width: 403px;}
-    50% {width: 405px;}
-    63% {width: 403px;}
-    75% {width: 400px;}
-    83% {width: 403px;}
-    100% {width: 405px;}
-  }
+.animate:hover {
+  animation: pulse 1s infinite ease-in-out;
+}
+.img:hover{
+  cursor: pointer;
+}
+@keyframes pulse {
+0%   { transform: scale(1); }
+50%  { transform: scale(1.025); }
+100% { transform: scale(1); }
+}
 </style>
 
 
