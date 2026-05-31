@@ -1,13 +1,8 @@
 # Willkommen zu diesem Onlinekurs
 
-## Befehle
+## Verwendetes Programm
 
-Für die vollständige Dokumentation besuche [mkdocs.org](https://www.mkdocs.org).
-
-- `mkdocs new [dir-name]` - Erstelle ein neues Projekt.
-- `mkdocs serve` - Starte den live-reloading docs Server.
-- `mkdocs build` - Baue die Dokumentationsseite.
-- `mkdocs -h` - Lasse die Hilfsnachricht ausgeben und steige aus.
+Für die vollständige Dokumentation besuche [mkdocs.org](https://www.mkdocs.org), da dieses der Static Site Generator ist, welcher für dieses Projekt verwendet wurde.
 
 ## Projekt Struktur
 
@@ -21,6 +16,8 @@ Für die vollständige Dokumentation besuche [mkdocs.org](https://www.mkdocs.org
 
 Du wirst den gesamten Verlauf des Kurses hier sehen.
 Bitte erkundige dich regelmäßig über Neuerungen, da sich dieser Kurs noch in Entwicklung befindet.
+
+Um gleich in den Kurs reinzustarten: <a href="./01-foundations/1_intro/">Click me</a>
 
 ## Unterstützung
 

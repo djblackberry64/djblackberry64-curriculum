@@ -1,6 +1,9 @@
 ---
 title: Introduction
-date: 2025-09-03
+updated: 2026-03-29 16:30:00
+date: 2025-09-03 14:34:00
+prev: "/"
+next: "01-foundations/2_what-is-programming/"
 ---
 
 # Introduction
@@ -9,7 +12,17 @@ date: 2025-09-03
 
 Welcome to Lempire Curriculum!
 
-## Chapter 2: Overview of lesson Content
+## Chapter 2: Expectations
+
+### What this section tries to do
+
+This section focuses on building operational and practical knowledge about programming.
+
+### What this section doesn't try to do
+
+This section does not cover more complex topics or deeper explanations. These are covered in the advanced section.
+
+## Chapter 3: Overview of lesson Content
 
 In this chapter we'll give you a quick overview of what our curriculum's purpose is.
 Here is a little outline on our foundation topics:
@@ -23,27 +36,31 @@ Here is a little outline on our foundation topics:
       </details>
       <details>
       <summary>The history of programming</summary>
-      How did we get to where we are?</br>How did programming evolve over time?
+      Questions to be answered in this part of the curriculum:<br />
+      <ul>
+      <li>How did we get to where we are?</li>
+      <li>How did programming evolve over time?</li>
+      </ul>
       </details>
       <details>
       <summary>Concepts in Programming</summary>
-      What are different concepts in Programming?
-      <br />
-      Why are they relevant?
-      <br />
-      How are they executed in different programming languages?
-      <br />
+      Questions to be answered in this part of the curriculum:<br />
+      <ul>
+      <li>What are different concepts in Programming?</li>
+      <li>Why are they relevant?</li>
+      <li>How are they executed in different programming languages?</li>
+      </ul>
       Examples include: Variables, Functions/Methods, Loops, Decision Branching, Error Handling, etc.
       </details>
       <details>
       <summary>Principles of Programming</summary>
-      What are different principles in Programming?
-      <br />
-      Why are they relevant?
-      <br />
-      How are they executed in different programming languages?
-      <br />
-      Examples include: Capsulation, Modularity, Readablity, Standartization, etc.
+      Questions to be answered in this part of the curriculum:<br />
+      <ul>
+      <li>What are different principles in Programming?</li>
+      <li>Why are they relevant?</li>
+      <li>How are they executed in different programming languages?</li>
+      </ul>
+      Examples include: Paridigms, Capsulation, Modularity, Readablity, Standardization, etc.
       </details>
       <details>
       <summary>How do I program?</summary>
@@ -51,7 +68,7 @@ Here is a little outline on our foundation topics:
         <ul>
           <details>
           <summary>OS</summary>
-          An Operating System(OS) is a programm that runs on your hardware.</br>It's where you interact with your device.</br>This includes a file manager, oftentimes pre-installed software as well as other functionality necessary for the OS to run properly on your device.
+          An Operating System(OS) is a programm that runs on your hardware.</br>It's where you interact with your device.</br>This must include functionality necessary for the OS to run properly on your device. You'll also often find preinstalled software present and a file manager present - especially on graphical OSs.
           <ul>
           <details>
           <summary>Windows</summary>

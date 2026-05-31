@@ -1,18 +1,27 @@
-.lesson-nav {
-  display: flex;
-  justify-content: space-between;
-  margin: 2rem 0;
+.lesson-navigation {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 1rem !important;
+  margin-top: 2rem;
+  flex-wrap: wrap;
 }
 
-.lesson-nav a {
+.lesson-navigation .md-button {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  text-decoration: none;
 }
 
-.lesson-nav svg {
-  width: 1.2em;
-  height: 1.2em;
-  fill: currentColor; /* Farben vom Theme übernehmen */
+.lesson-navigation img {
+  height: 1em; /* Farben vom Theme übernehmen */
+}
+
+@media (max-width: 600px) {
+  .lesson-navigation {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .lesson-navigation a {
+    justify-content: center;
+  }
 }

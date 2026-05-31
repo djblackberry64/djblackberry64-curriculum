@@ -1,8 +1,9 @@
 ---
 title: What is programming?
-date: 2025-10-12
-prev: "foundations/1_intro/"
-next: "foundations/3_history_of_programming/"
+updated: 2025-10-12 17:45:00
+date: 2025-10-12 17:45:00
+prev: "01-foundations/1_intro/"
+next: "01-foundations/3_history-of-programming/"
 ---
 
 # What is programming?
@@ -10,6 +11,8 @@ next: "foundations/3_history_of_programming/"
 ## Definition
 
 Programming is the process of designing and building an executable computer program to accomplish a specific computing result or perform a specific task.
+
+Coding is programming in a specific programming knowledge or working with a specific tech stack.
 
 Programming knowledge is the understanding of fundamental principles in software development.
 

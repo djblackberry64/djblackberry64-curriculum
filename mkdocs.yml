@@ -25,6 +25,12 @@ extra:
     - name: Deutsch
       link: /djblackberry64-curriculum/de/
       lang: de
+    #- name: Español
+    #link: /djblackberry64-curriculum/es/
+    #lang: es
+    #- name: 中文(zhōngwén)
+    #link: /djblackberry64-curriculum/zh/
+    #lang: zh
   social:
     - icon: fontawesome/solid/rss
       link: /djblackberry64-curriculum/feed_rss_created.xml
@@ -34,10 +40,8 @@ plugins:
   - rss:
       match_path: "^en/.*\\.md$"
       date_from_meta:
-        fields:
-          - updated
-          - date
-        default_time: "00:00"
+        as_creation: date
+        as_update: updated
   - search
   - awesome-pages
   - i18n:
@@ -56,6 +60,16 @@ plugins:
           build: true
           site_name: "Djblackberry64 Kurs"
           default: false
+        - locale: es
+          name: Español
+          build: false
+          site_name: "Djblackberry64 Currículo"
+          default: false
+        - locale: zh
+          name: 中文(zhōngwén)
+          build: false
+          site_name: "Djblackbery64 课程(kèchéng)"
+          default: false
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -63,7 +77,7 @@ markdown_extensions:
   - md_in_html
   # - toc
 extra_css:
-  - overrides/assets/stylesheets/lesson_nav.css
+  - ./assets/stylesheets/lesson_nav.css
 extra_javascript:
   - resources/javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
