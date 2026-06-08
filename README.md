@@ -20,6 +20,8 @@ This course uses self shot photography, a storyline as well as simple language t
 
 Here is the link to the site: <a href="https://djblackberry64.github.io/djblackberry64-curriculum/">Hosted curriculum online</a>
 
+Here is the link to the beta version of the new site (made with another program): <a href="https://github.com/djblackberry64/programming-fundamentals-course">Hosted beta online</a>
+
 ## How to self-host this project
 
 To self-host this project you will need to [install](https://www.mkdocs.org/user-guide/installation/) mkdocs via pip. After that you will need to install the different extensions used in this project found in the mkdocs.yml file. The files and folders relevant to achieve a self-host are the folders: docs, overrides as well as the files mkdocs.yml, .gitignore and the two licenses this project uses.

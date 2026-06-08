@@ -3,7 +3,7 @@ title: Introduction
 updated: 2026-03-29 20:37:00
 date: 2026-03-29 19:48:00
 prev: "02-language-specific-lessons/2_beginner-resources/"
-next: "03-advanced-section/2_collaboration/"
+next: "03-advanced-section/3_java-course/"
 ---
 
 # Introduction
